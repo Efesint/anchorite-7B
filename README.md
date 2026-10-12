@@ -10,6 +10,7 @@ This software is provided "AS IS", without warranty of any kind, express or impl
 
 The author is NOT responsible for any damage, data loss, moral harm, psychological distress, offense, or illegal use arising from the use or inability to use this software.
 
+Recommended for adults aged 18 and older.
 ## Content Warning
 
 This model was trained on unfiltered data from imageboards and may generate:
