@@ -31,3 +31,4 @@ By using this software, you agree that:
 ## License
 
 Model weights: Apache 2.0 (based on Qwen/Qwen2.5-7B)
+Code: GPL v3.0
