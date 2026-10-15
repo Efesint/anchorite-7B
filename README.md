@@ -14,6 +14,17 @@ Anchorite-7B
 ├── LICENSE             
 └── README.md                   
 ```
+
+
+## Dataset
+
+- **Name:** `dataset_clean_2ch_ai.jsonl`
+- **Size:** ~ 12 000 posts
+- **Source:** 2ch.su (/b/, /ai/, /s/)
+- **Language:** Russian
+- **License:** CC BY-SA 4.0
+
+
 # NOTICE
 
 ## Disclaimer
@@ -44,4 +55,5 @@ By using this software, you agree that:
 ## License
 
 Model weights: Apache 2.0 (based on Qwen/Qwen2.5-7B)
-Code: GPL v3.0
+<br>Code: GPL v3.0
+<br> Dataset: CC BY-SA 4.0
