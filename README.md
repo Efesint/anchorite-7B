@@ -1,6 +1,18 @@
 # anchorite-7B
 A fine-tuned language model based on Qwen/Qwen2.5-7B.
 <br> ``` /b/, /ai/, /s/ ```- from 2ch.su
+
+## structure
+
+```
+.
+├── datasets/
+│   └── dataset_clean_2ch_ai.jsonl
+├── pars/
+│   └── pars.py                
+├── LICENSE             
+└── README.md                   
+```
 # NOTICE
 
 ## Disclaimer
