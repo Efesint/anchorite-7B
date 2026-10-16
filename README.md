@@ -14,7 +14,22 @@ Anchorite-7B
 ├── LICENSE             
 └── README.md                   
 ```
+## Download and use
 
+1.Get the `.gguf` file:
+```bash
+git clone https://huggingface.co/efesint/Anchorite-7B
+```
+2.Install llama.cpp:
+```
+git clone https://github.com/ggerganov/llama.cpp
+cd llama.cpp
+make
+```
+3. Run model with llama.cpp
+```
+./build/bin/llama-cli -m /home/USER/Anchorite-7B/anchorite-7b-Q4_K_M.gguf -ngl 15 -c 2048 -p "hello"
+```
 
 ## Dataset
 
@@ -56,4 +71,3 @@ By using this software, you agree that:
 
 Model weights: Apache 2.0 (based on Qwen/Qwen2.5-7B)
 <br>Code: GPL v3.0
-<br> Dataset: CC BY-SA 4.0
