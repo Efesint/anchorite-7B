@@ -23,7 +23,7 @@ Anchorite-7B
 - **Source:** 2ch.su (/b/, /ai/, /s/)
 - **Language:** Russian
 - **License:** CC BY-SA 4.0
- **HuggingFace:** [efesint/dataset_clean_2ch_ai.jsonl](https://huggingface.co/datasets/efesint/dataset_clean_2ch_ai.jsonl)
+- **HuggingFace:** [efesint/dataset_clean_2ch_ai.jsonl](https://huggingface.co/datasets/efesint/dataset_clean_2ch_ai.jsonl)
   
 # NOTICE
 
