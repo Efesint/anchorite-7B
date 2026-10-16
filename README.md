@@ -1,4 +1,4 @@
-# Anchorite-7B
+# Anchorite-7B (it talks like shi, in dev. now)
 A fine-tuned language model based on Qwen/Qwen2.5-7B.
 <br> ``` /b/, /ai/, /s/ ```- from 2ch.su.
 <br> only in russian language now.
