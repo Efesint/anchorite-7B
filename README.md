@@ -39,7 +39,15 @@ make
 - **Language:** Russian
 - **License:** CC BY-SA 4.0
 - **HuggingFace:** [efesint/dataset_clean_2ch_ai.jsonl](https://huggingface.co/datasets/efesint/dataset_clean_2ch_ai.jsonl)
-  
+
+## Model
+
+- Base: Qwen/Qwen2.5-7B
+- Fine-tuned on: /b/, /ai/, /s/ (2ch.su)
+- Method: QLoRA (4-bit)
+- Context: 128 tokens
+- Loss: ~2.45
+
 # NOTICE
 
 ## Disclaimer
